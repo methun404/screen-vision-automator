@@ -1,0 +1,32 @@
+{
+    "multiplier": {
+        "top": 442,
+        "left": 754,
+        "width": 344,
+        "height": 109
+    },
+    "balance": {
+        "top": 242,
+        "left": 1270,
+        "width": 70,
+        "height": 20
+    },
+    "history": {
+        "top": 279,
+        "left": 423,
+        "width": 956,
+        "height": 25
+    },
+    "bet_amount": {
+        "top": 699,
+        "left": 520,
+        "width": 79,
+        "height": 19
+    },
+    "bet_button": {
+        "top": 722,
+        "left": 673,
+        "width": 135,
+        "height": 48
+    }
+}
